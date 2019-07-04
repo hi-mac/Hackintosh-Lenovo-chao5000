@@ -1,4 +1,4 @@
-# Hackintosh-Lenovo-chao5000
+# Hackintosh-Lenovo-chao5000(不适合小新经典版)
 ### 本项目致力于联想潮5000黑苹果引导文件完善
 
 ⚠️：按触摸板分为SYNA2B33/ELAN0608二个版本，默认的驱动文件夹对应SYNA2B33，ELAN0608用户请使用VoodooI2CELAN.kext
